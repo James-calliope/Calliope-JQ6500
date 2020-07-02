@@ -1,0 +1,15 @@
+{
+    "name": "JQ6500",
+    "version": "1.0",
+    "description": "Makecode pxt extension for JQ6500-MP3",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/dfplayermini-strings.json"
+    ],
+    "public": true
+}
